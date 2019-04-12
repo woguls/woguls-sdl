@@ -1,0 +1,19 @@
+{
+  "name": "woguls-sdl",
+  "version": "0.0.0",
+  "description": "sdl2 bindings for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woguls/woguls-sdl.git"
+  },
+  "author": "David DeWert <daviddewert@gmail.com>",
+  "license": "BOOST",
+  "bugs": {
+    "url": "https://github.com/woguls/woguls-sdl/issues"
+  },
+  "homepage": "https://woguls.github.io/sdl/"
+}

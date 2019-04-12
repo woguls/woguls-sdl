@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/woguls/woguls-sdl.git"
   },
+  "dependencies": {
+    "v8pp": "^1.0"
+  },
   "author": "David DeWert <daviddewert@gmail.com>",
   "license": "BOOST",
   "bugs": {
